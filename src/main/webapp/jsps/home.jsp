@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">ACADA Learning</h1>
-<h2 align="center"> Welcome to ACADA Learning. 
+<h2 align="center"> Please build oh - Welcome to ACADA Learning. 
 	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance,
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord</h2>
